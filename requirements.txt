@@ -1,0 +1,9 @@
+django
+djangorestframework
+django-cors-headers
+openai
+groq
+faiss-cpu
+sentence-transformers
+pypdf
+python-dotenv

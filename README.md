@@ -1,6 +1,4 @@
-# DocChat
-
-**Chat with your documents in seconds.**
+# DocChat - **Chat with your documents in seconds.**
 
 DocChat is a premium AI-powered document intelligence suite that allows you to upload any document (PDF, DOCX, TXT) and have a persistent, context-aware conversation with it. Built with a "Midnight Elite" aesthetic, it leverages high-speed Retrieval-Augmented Generation (RAG) to provide precise answers instantly.
 
